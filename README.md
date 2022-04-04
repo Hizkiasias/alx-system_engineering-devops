@@ -1,1 +1,2 @@
-it is good!
+#!/bin/bash
+alx system
